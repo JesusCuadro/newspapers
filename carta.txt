@@ -1,6 +1,8 @@
 Buenas Tardes
 
-El texto anterior estaba mal, ahora este si es el bueno.
-Ahora añado otra linea
+El texto anterior estaba mal, ahora este si es el bueno,
+Ahora añado otra linea.
+
+La realidad el codigo es mi pasion y me llevara a lugares increibles.
 
 Gracias
