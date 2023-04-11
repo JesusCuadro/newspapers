@@ -8,6 +8,20 @@ body{
     font-size: 15px;
 }
 
+#cabecera{
+    color: black;
+    background-color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-size: 40px;
+    filter: drop-shadow(10px 10px 10px #000);
+}
+
+#tagline{
+    font-size: 20px;
+    margin: 1em 0 0 0;
+}
+
 #container{
     width: 70%;
     padding: 1em;
