@@ -9,6 +9,7 @@ Ha sido una experiencia gratificante porque lo que he llegado a aprender ha sido
 - El funcionamiento de un ReadMe
     - Es muy interesante **lo que se puede hacer**
     - Espero terminar jsjs
+- Creado por Jesus Cuadro
 
 > Por ultimo una esto para ver como funciona
 >
