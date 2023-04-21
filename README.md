@@ -10,6 +10,7 @@ Ha sido una experiencia gratificante porque lo que he llegado a aprender ha sido
     - Es muy interesante **lo que se puede hacer**
     - Espero terminar jsjs
 - Creado por Jesus Cuadro
+- Aprendiz SENA en el CBA Mosquera
 
 > Por ultimo una esto para ver como funciona
 >
